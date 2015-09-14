@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">shshAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="firstCoin">First</string>
+    <string name="secondCoin">Second</string>
+    <string name="ui_title">Market</string>
+    <string name="alert">Alert</string>
+
+    // URLs
+    <string name = "coinList">"https://shapeshift.io/getcoins"</string>
+    <string name="coinInfo">https://shapehift.io/marketinfo/%1%d</string>
+</resources>
